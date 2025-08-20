@@ -1,4 +1,4 @@
-## 🚀 New Project Completed: IPL Data Analysis 🏏
+## 🚀 IPL Data Analysis 🏏
 
 I recently worked on an exciting project where I analyzed IPL (Indian Premier League) data using Python and JupyterLab.
 
