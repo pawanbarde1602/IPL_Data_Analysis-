@@ -9,6 +9,4 @@ I recently worked on an exciting project where I analyzed IPL (Indian Premier Le
 
 This project not only strengthened my data analysis, Python, and visualization skills but also gave me a deeper appreciation of how data drives decisions in sports analytics.
 
-💡 Looking forward to applying these skills to more real-world datasets and projects!
-
-#DataAnalysis #Python #IPL #CricketAnalytics #JupyterLab #SportsAnalytics
+💡 Looking forward to applying these skills to more real-world datasets and projects 
